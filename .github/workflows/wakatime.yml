@@ -1,0 +1,23 @@
+name: WakaTime status update
+
+on:
+  schedule:
+    # 毎日夜中の0時に更新する設定（UTC時間なので日本時間の朝9時）
+    - cron: "0 0 * * *"
+  workflow_dispatch: # 手動で今すぐ更新したい時用
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          SECTION_NAME: wakatime
+          BLOCKS: ░▒▓█
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: false
