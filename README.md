@@ -18,14 +18,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:wakatime-->
 
 ```txt
-From: 30 May 2026 - To: 06 June 2026
+From: 31 May 2026 - To: 07 June 2026
 
-Swift        6 hrs 34 mins         ████████████████▓░░░░░░░░   66.38 %
-Other        1 hr 46 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.99 %
-Markdown     1 hr 2 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.61 %
-XML          13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-HTML         12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-JSON         3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Swift        3 hrs 11 mins         █████████████▓░░░░░░░░░░░   54.41 %
+Other        1 hr 11 mins          █████░░░░░░░░░░░░░░░░░░░░   20.21 %
+Markdown     1 hr 2 mins           ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
+XML          13 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
+HTML         12 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
