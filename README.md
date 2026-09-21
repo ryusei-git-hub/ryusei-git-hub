@@ -18,15 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:wakatime-->
 
 ```txt
-From: 12 September 2026 - To: 19 September 2026
+From: 13 September 2026 - To: 20 September 2026
 
-HTML          4 hrs 18 mins         █████████████░░░░░░░░░░░░   51.75 %
-Markdown      1 hr 10 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 %
-Other         56 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-Image (svg)   55 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
-CSS           29 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-Python        28 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-JSON          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Other   39 mins               ██████████████▒░░░░░░░░░░   57.79 %
+HTML    28 mins               ██████████▓░░░░░░░░░░░░░░   42.21 %
 ```
 
 <!--END_SECTION:wakatime-->
